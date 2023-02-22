@@ -1,0 +1,10 @@
+C:\mysql\mysql\x64\Debug\mysql.vcxproj.AssemblyReference.cache
+C:\mysql\mysql\x64\Debug\mysql.vcxproj.SuggestedBindingRedirects.cache
+C:\mysql\mysql\x64\Debug\mysql.CONG.resources
+C:\mysql\mysql\x64\Debug\mysql.MENU.resources
+C:\mysql\mysql\x64\Debug\mysql.MyForm1.resources
+C:\mysql\mysql\x64\Debug\mysql.vcxproj.GenerateResource.cache
+C:\mysql\mysql\x64\Debug\mysql.vcxproj.CopyComplete
+C:\mysql\mysql\x64\Debug\mysql.Tru.resources
+C:\mysql\mysql\x64\Debug\mysql.SOSANH.resources
+C:\mysql\mysql\x64\Debug\mysql.Register.resources

@@ -1,0 +1,31 @@
+﻿  MyForm1.cpp
+C:\mysql\mysql\CONG.h(363,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\CONG.h(364,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\CONG.h(369,21): warning C4101: 'ex': unreferenced local variable
+C:\mysql\mysql\CONG.h(388,21): warning C4101: 'ex': unreferenced local variable
+C:\mysql\mysql\CONG.h(432,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\CONG.h(434,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\CONG.h(435,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\CONG.h(437,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\CONG.h(438,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\Tru.h(308,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\Tru.h(309,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\Tru.h(314,21): warning C4101: 'ex': unreferenced local variable
+C:\mysql\mysql\Tru.h(333,21): warning C4101: 'ex': unreferenced local variable
+C:\mysql\mysql\Tru.h(374,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\Tru.h(376,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\Tru.h(377,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\Tru.h(379,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\Tru.h(380,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\SOSANH.h(286,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\SOSANH.h(287,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\SOSANH.h(292,21): warning C4101: 'ex': unreferenced local variable
+C:\mysql\mysql\SOSANH.h(311,21): warning C4101: 'ex': unreferenced local variable
+C:\mysql\mysql\SOSANH.h(351,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\SOSANH.h(353,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\SOSANH.h(354,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\SOSANH.h(357,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\mysql\mysql\SOSANH.h(347,18): warning C4101: 'test': unreferenced local variable
+C:\mysql\mysql\Register.h(350,21): warning C4101: 'ex': unreferenced local variable
+  MyForm1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  mysql.vcxproj -> C:\mysql\x64\Debug\mysql.exe
